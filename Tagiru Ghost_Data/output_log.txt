@@ -1,0 +1,129 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\--- SEMESTER 4 ---\INTERACTIVE MULTIMEDIA\B00073668_Tagiru_Ghost_Game\Tagiru Ghost_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree palm1 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm2 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm3 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+UnloadTime: 7.134839 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3027.
+Total: 1.695085 ms (FindLiveObjects: 0.161640 ms CreateObjectMapping: 0.034209 ms MarkObjects: 0.391699 ms  DeleteObjects: 0.594391 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 16.770826 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 346 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 8.059781 ms (FindLiveObjects: 0.023519 ms CreateObjectMapping: 0.018815 ms MarkObjects: 0.213809 ms  DeleteObjects: 7.287927 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree palm1 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm2 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm3 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+UnloadTime: 0.499887 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1600.
+Total: 1.118226 ms (FindLiveObjects: 0.065853 ms CreateObjectMapping: 0.025229 ms MarkObjects: 0.271538 ms  DeleteObjects: 0.366897 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 4.976213 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 339 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 18.526634 ms (FindLiveObjects: 0.035920 ms CreateObjectMapping: 0.029505 ms MarkObjects: 0.316438 ms  DeleteObjects: 17.331009 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree palm1 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm2 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm3 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+UnloadTime: 0.931356 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4171.
+Total: 1.408152 ms (FindLiveObjects: 0.178745 ms CreateObjectMapping: 0.041479 ms MarkObjects: 0.366470 ms  DeleteObjects: 0.419495 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 19.112047 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 12.123453 ms (FindLiveObjects: 0.041906 ms CreateObjectMapping: 0.036775 ms MarkObjects: 0.299761 ms  DeleteObjects: 11.307554 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree palm1 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm2 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+The tree palm3 couldn't be instanced because the prefab contains no valid mesh renderer
+ 
+(Filename:  Line: 53)
+
+UnloadTime: 1.323056 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 4171.
+Total: 1.479992 ms (FindLiveObjects: 0.177462 ms CreateObjectMapping: 0.038058 ms MarkObjects: 0.344661 ms  DeleteObjects: 0.518703 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 19.140270 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 386 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 11.521363 ms (FindLiveObjects: 0.023519 ms CreateObjectMapping: 0.030361 ms MarkObjects: 0.230914 ms  DeleteObjects: 10.805529 ms)
+
